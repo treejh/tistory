@@ -1,6 +1,6 @@
 import feedparser, datetime
 
-uri="https://eun2ce.tistory.com"
+uri="https://dose-blog.tistory.com"
 feed = feedparser.parse(uri+"/rss")
 
 markdown_text = """# eun2ce.tistory.com
