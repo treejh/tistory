@@ -1,4 +1,4 @@
-# eun2ce.tistory.com
+#dose-blog.tistory.com
 ## blog posts
 [[ java ] 생성자, 생성자 오버로딩](https://dose-blog.tistory.com/entry/java-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%83%9D%EC%84%B1%EC%9E%90-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9) - Dec 10, 2024<br>
 [[ java ] 추상클래스](https://dose-blog.tistory.com/entry/java-%EC%B6%94%EC%83%81%ED%81%B4%EB%9E%98%EC%8A%A4) - Dec 10, 2024<br>
